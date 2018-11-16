@@ -1,0 +1,5 @@
+/tmuxinator/
+/tmux/*
+!/tmux/plugins
+/tmux/plugins/*
+!/tmux/plugins/tpm
